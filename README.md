@@ -1,1 +1,2 @@
 # Beam-Forming
+This code simulates a beamforming process for a linear microphone array to enhance the detection of a signal coming from a specific direction. The program generates a chirp signal and simulates how it would be received by multiple microphones, each experiencing a time delay based on the direction of arrival (DOA). It then applies delay-and-sum beamforming to align the signals and improve their clarity.
